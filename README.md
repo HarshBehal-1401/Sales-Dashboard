@@ -3,6 +3,10 @@
 ## Overview  
 This project demonstrates the full lifecycle of building a sales analytics dashboard, from business requirements gathering to final dashboard implementation. The dashboard provides interactive, actionable insights into sales performance across regions, products, and time.
 
+## ⏺ Screenshots  
+![Sales Dashboard Screenshot](https://raw.githubusercontent.com/HarshBehal-1401/Sales-Dashboard/main/Image/Sales%20Dashboard%20img.png)  
+![Customer Dashboard Screenshot](https://raw.githubusercontent.com/HarshBehal-1401/Sales-Dashboard/main/Image/Customer%20Dashboard%20img.png)
+
 ## Goals  
 - Provide business stakeholders with a clear view of key sales metrics (e.g., revenue, units sold, growth)  
 - Enable identification of underperforming segments and trending opportunities  
@@ -51,4 +55,4 @@ The project proceeds through these key stages:
 ## Future Enhancements  
 - Add predictive analytics: e.g., forecasting future sales by product or region  
 - Incorporate generative-AI features: e.g., natural-language driven insights (“What happened in Q2?”) or automated trend explanation  
-- Connect live data feeds or automate data refresh with cloud services
+- Connect live data feeds or automate data refresh with cloud services  
